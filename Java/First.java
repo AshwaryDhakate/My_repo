@@ -19,6 +19,6 @@ public class First {
 
     }
 }
-class Second{
-
-}
+//class Second{
+//
+//}
